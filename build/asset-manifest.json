@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0842d5cc.chunk.css",
+    "main.js": "/static/js/main.48b9b482.chunk.js",
+    "main.js.map": "/static/js/main.48b9b482.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72e4ca65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72e4ca65.js.map",
+    "static/css/2.f523f91d.chunk.css": "/static/css/2.f523f91d.chunk.css",
+    "static/js/2.ac2fb93b.chunk.js": "/static/js/2.ac2fb93b.chunk.js",
+    "static/js/2.ac2fb93b.chunk.js.map": "/static/js/2.ac2fb93b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df68f8e7e046b59db2e6bdda5038a90c.js": "/precache-manifest.df68f8e7e046b59db2e6bdda5038a90c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f523f91d.chunk.css.map": "/static/css/2.f523f91d.chunk.css.map",
+    "static/css/main.0842d5cc.chunk.css.map": "/static/css/main.0842d5cc.chunk.css.map",
+    "static/js/2.ac2fb93b.chunk.js.LICENSE.txt": "/static/js/2.ac2fb93b.chunk.js.LICENSE.txt",
+    "static/js/main.48b9b482.chunk.js.LICENSE.txt": "/static/js/main.48b9b482.chunk.js.LICENSE.txt",
+    "static/media/MauCapNhatKH.xlsx": "/static/media/MauCapNhatKH.2350c831.xlsx",
+    "static/media/MauCapNhatTru.xlsx": "/static/media/MauCapNhatTru.136f3755.xlsx",
+    "static/media/loading.svg": "/static/media/loading.d34dcd74.svg",
+    "static/media/logo.svg": "/static/media/logo.e00c1cb1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e4ca65.js",
+    "static/css/2.f523f91d.chunk.css",
+    "static/js/2.ac2fb93b.chunk.js",
+    "static/css/main.0842d5cc.chunk.css",
+    "static/js/main.48b9b482.chunk.js"
+  ]
+}
